@@ -1,0 +1,6 @@
+name: InfiniteJump
+main: me.topaze.infinitejump.InfiniteJump
+version: 0.1.0
+api-version: 1.15
+commands:
+  generate:
